@@ -1,0 +1,10 @@
+{
+	{
+		'title':'python test',	
+		'body_html': '<img>',
+		'product_type': '1',
+		'images': '',
+		'vendor': 'RITA',
+		'published': False
+	}
+}
